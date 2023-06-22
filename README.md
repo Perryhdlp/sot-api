@@ -15,9 +15,9 @@ The 'rat' cookie is a HS265 JWT Token used to authenticate the user with the API
 
 ## Extension
 
-Alternatively, you can use the [sotfAkPI-helper](https://www.example.com) extension for Chrome. This extension allows you to quickly copy and paste the JWT Token from the website to your request. It can be used with [sotfAkPI](https://www.example.com) to get your Sea of Thieves statistics or to make your own requests to the API.
+Alternatively, you can use the [sotfAkPI-helper](https://github.com/Perryhdlp/sotfAkPI-helper) extension for Chrome. This extension allows you to quickly copy and paste the JWT Token from the website to your request. It can be used with [sotfAkPI](https://www.example.com) to get your Sea of Thieves statistics or to make your own requests to the API.
 
-If using the extension, no user data is stored or transmitted. The extension is open source and can be found [here](https://www.example.com).
+If using the extension, no user data is stored or transmitted. The extension is open source and can be found [here](https://github.com/Perryhdlp/sotfAkPI-helper).
 
 
 ## Usage
