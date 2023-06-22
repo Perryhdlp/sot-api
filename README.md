@@ -41,14 +41,14 @@ The request is a simple GET request to the API. The JWT Token is passed in the c
 
 ## Endpoints
 
-https://www.seaofthieves.com/api/profilev2/achievements
-https://www.seaofthieves.com/api/profilev2/balance
-https://www.seaofthieves.com/api/profilev2/captaincy
-https://www.seaofthieves.com/api/profilev2/chest
-https://www.seaofthieves.com/api/config
-https://www.seaofthieves.com/api/profilev2/overview
-https://www.seaofthieves.com/api/profilev2/reputation
-https://www.seaofthieves.com/api/profilev2/seasons-progress
+ - https://www.seaofthieves.com/api/profilev2/achievements
+ - https://www.seaofthieves.com/api/profilev2/balance
+ - https://www.seaofthieves.com/api/profilev2/captaincy
+ - https://www.seaofthieves.com/api/profilev2/chest
+ - https://www.seaofthieves.com/api/config
+ - https://www.seaofthieves.com/api/profilev2/overview
+ - https://www.seaofthieves.com/api/profilev2/reputation
+ - https://www.seaofthieves.com/api/profilev2/seasons-progress
 
 ## Limits
 
