@@ -1,24 +1,24 @@
-
 # Sea of Thieves API
 
-This repository contains some documentation for the Sea of Thieves API. The API is used by the official Sea of Thieves website to fetch user data. The API is not officially documented, but the endpoints are used by the website and can be found in the source code of the website.
+This repository contains documentation for the Sea of Thieves API. The API is used by the official Sea of Thieves website to fetch user data. The API is not officially documented, but the endpoints are used by the website and can be found in the source code.
 
-## Setup 
+## Setup
 
-The 'rat' cookie is a HS265 JWT Token, used to authenticate the user with the API. The decryption key is only known by Rare/Mircosoft.
+To make a request to the API, you need to have your valid JWT Token, this token is stored in a cookie called 'rat', which can be obtained from the website.
 
-To make a request to the API, you need to have your valid JWT Token which can be gotten from the website.
-1. Open the website and login
-2. Open the developer tools and go to the Application tab
-3. Refresh the page
+The 'rat' cookie is a HS265 JWT Token used to authenticate the user with the API. The decryption key is only known by Rare/Microsoft.
+
+1. Open the website and log in.
+2. Open the developer tools and go to the Application tab.
+3. Refresh the page.
 4. Under the Cookies section, you will find the 'rat' cookie. Copy the value of the cookie and use it in your request.
 
 ## Extension
 
-Or you can use [sotfAkPI-helper](https://www.example.com) extension for Chrome.
-This extension will allow you to quickly copy and paste the JWT Token from the website to your request. This can be used with the [sotfAkPI](https://www.example.com) to get your Sea of Thieves statistics. Or you can use it to make your own requests to the API. 
+Alternatively, you can use the [sotfAkPI-helper](https://www.example.com) extension for Chrome. This extension allows you to quickly copy and paste the JWT Token from the website to your request. It can be used with [sotfAkPI](https://www.example.com) to get your Sea of Thieves statistics or to make your own requests to the API.
 
 If using the extension, no user data is stored or transmitted. The extension is open source and can be found [here](https://www.example.com).
+
 
 ## Usage
 
